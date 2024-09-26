@@ -1,7 +1,7 @@
 # Autonomous-Cart-Competition
 
 ## Overview
-This project focuses on designing and implementing an autonomous cart that competes by navigating towards an IR signal transmitted from the edge of a room. The cart's goal is to reach the transmitter quickly while avoiding obstacles.
+This project focuses on designing and implementing an autonomous cart using the Arduino programming language. The cart competes by navigating towards an IR signal transmitted from the edge of a room, aiming to reach the transmitter quickly while avoiding obstacles.
 
 ## Features
 - IR Signal Processing: The cart uses IR receivers to detect a modulated signal, guiding it towards the transmitter with high accuracy.
